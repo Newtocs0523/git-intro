@@ -49,7 +49,8 @@ console.log("Hello World");
 
 - Create the remote repository
 - Link it with the local repository
--Push the latest commits;
+-Push the latest commits
+-u flag stands for -- set-upstream
 
 
 
