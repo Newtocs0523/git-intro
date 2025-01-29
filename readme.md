@@ -23,7 +23,7 @@ There are commands:
 
 - Source Control Management (Version Control System)
 - Track changes in the code;
-- Move forward or backward in your versions of code easily
+- Move forward or backward in your versions of code easily;
 
 
 ## Markdown
