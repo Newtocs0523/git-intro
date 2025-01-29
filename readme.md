@@ -43,6 +43,14 @@ print("Hello World")
 ```js
 console.log("Hello World");
 
+```
+
+## Github steps
+
+- Create the remote repository
+- Link it with the local repository
+-Push the latest commits
+
 
 
 
